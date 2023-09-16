@@ -1,0 +1,95 @@
+---
+id: swsh3-153
+name: Greedent
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '120'
+types:
+- Colorless
+evolvesFrom: Skwovet
+attacks:
+- name: Scrape Off
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: '20'
+  text: Before doing damage, discard all Pokémon Tools from your opponent's Active
+    Pokémon.
+- name: Smack and Run
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '100'
+  text: Put this Pokémon and all attached cards into your hand.
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: swsh3
+  name: Darkness Ablaze
+  series: Sword & Shield
+  printedTotal: 189
+  total: 201
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: DAA
+  releaseDate: 2020/08/14
+  updatedAt: 2020/10/25 13:45:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh3/symbol.png
+    logo: https://images.pokemontcg.io/swsh3/logo.png
+number: '153'
+artist: Kouki Saitou
+rarity: Rare
+flavorText: It stashes berries in its tail—so many berries that they fall out constantly.
+  But this Pokémon is a bit slow-witted, so it doesn't notice the loss.
+nationalPokedexNumbers:
+- 820
+legalities:
+  unlimited: Legal
+  expanded: Legal
+regulationMark: D
+images:
+  small: https://images.pokemontcg.io/swsh3/153.png
+  large: https://images.pokemontcg.io/swsh3/153_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh3-153
+  updatedAt: 2023/09/16
+  prices:
+    reverseHolofoil:
+      low: 0.12
+      mid: 0.39
+      high: 1.1
+      market: 0.42
+      directLow: 0.2
+    normal:
+      low: 0.1
+      mid: 0.25
+      high: 1.5
+      market: 0.18
+      directLow: 0.16
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh3-153
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.2
+    lowPrice: 0.02
+    trendPrice: 0.17
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.59
+    reverseHoloLow: 0.05
+    reverseHoloTrend: 0.44
+    lowPriceExPlus: 0.02
+    avg1: 0.2
+    avg7: 0.16
+    avg30: 0.19
+    reverseHoloAvg1: 0.19
+    reverseHoloAvg7: 0.46
+    reverseHoloAvg30: 0.53
